@@ -166,14 +166,13 @@ To reuse vision utilities across projects.
 
 ---
 
-### 🔐 Authentication System
+### 📱 Tablet UI System 
+- Custom tablet UI design 
+- Responsive layout
+- Tech: (HTML,CSS,JavaScript) 
 
 **Why?**
-To secure user data and access.
-
-* Login/signup
-* Access control
-* Tech: Node.js / Firebase
+To give users a tablet or apple like feel on any device.
 
 **🎥 Demo:** (add link)
 **📸 Screenshots:** (add images)
