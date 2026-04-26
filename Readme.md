@@ -63,7 +63,7 @@ To reduce eye strain caused by long screen time.
 * Sends break alerts
 * Tech: Python, OpenCV, MediaPipe
 
-**🎥 Demo:** (add link)
+**🎥 Demo:** (https://drive.google.com/file/d/1iUNc0HPSyAVfKw50MuXdZWhZ5hKd6f0J/view?usp=sharing)
 **📸 Screenshots:** (add images)
 
 ---
@@ -95,29 +95,13 @@ To implement real-time image processing.
 **📸 Screenshots:** (add images)
 
 ---
-
-### 📱 Android Eye Care App
-
-**Why?**
-To make the system accessible on mobile.
-
-* Background reminders
-* UI-based controls
-* Tech: Android Studio
-
-**🎥 Demo:** (add link)
-**📸 Screenshots:** (add images)
-
----
-
-### 🌐 Backend API System
+###  Image Generation
 
 **Why?**
-To support scalable app architecture.
+To generate images.
 
-* REST APIs
-* Data handling
-* Tech: Node.js, Express
+* All Image Generation AI's
+* APIs, Python
 
 **🎥 Demo:** (add link)
 **📸 Screenshots:** (add images)
